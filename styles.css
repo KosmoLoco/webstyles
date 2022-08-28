@@ -1,0 +1,135 @@
+html {
+    display: block;
+}
+head{
+    display: none;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0 10%;
+}
+
+h1{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+div {
+    display: block;
+}
+.container {
+    border: 2px solid gainsboro;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.color-container{
+    width: 100%;
+}
+
+p {
+   display: block;
+}
+
+.color-panel{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 5px auto;
+    min-height: 100px;
+}
+
+.glaucous {
+    background-color: #6082B6;
+    color: #fff;
+}
+
+.fern-green {
+    background-color: #4F7942;
+    color: #fff;
+}
+.firebrick {
+    background-color: firebrick;
+    color: #fff;
+}
+
+.eggshell{
+    background-color: #F0EAD6;
+    color: black;
+}
+
+.french-beige{
+    background-color: #A67B5B;
+    color: white;
+}
+
+.gainsboro {
+    background-color: gainsboro;
+    color: black;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+.anek-telugu {
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.alumni-sans-pinstripe{
+    font-family: 'Alumni Sans Pinstripe', sans-serif; 
+}
+
+.playfair-display {
+    font-family: 'Playfair Display', serif;    
+}
+
+.text-panel h1{
+    font-weight: 700px;
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.text-panel h2{
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-panel p{
+    Font-weight: 400;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
